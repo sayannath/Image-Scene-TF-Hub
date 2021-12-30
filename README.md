@@ -1,5 +1,6 @@
 # Image-Scene-TF-Hub
-Image Scene Classification Model for TensorFlow Hub
+
+The Image Scene Classification model can classify the images based on the scene. This includes the following categories like Portrait, Group Portrait, Kids, Dogs, Cats, Macro, Food, Beach, Mountains, Waterfall, Snow, Landscape, Underwater, Architecture, Sunrise, Blue Sky, Overcast, Greenery, Autumn Plants, Flower, Night, Shot Stage, Fireworks, Candle light, Neon Lights, Indoor, Backlight, Text, QR Code and Monitor Screen
 
 ## TensorFlow Hub Link
 
